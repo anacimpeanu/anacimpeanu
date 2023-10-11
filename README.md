@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 Student at University of Bucharest <br>🤝 3nd year Computers and Information Technology<br>💬 Ambitious Engineer Student committed to academic excellence and seeking to apply in the IT industry.<br>⚡ I am personable, I do have a lot of energy and excellent communication abilities.<br>
+🔭 Student at University of Bucharest <br>🤝 3rd year Computers and Information Technology<br>💬 Ambitious Engineer Student committed to academic excellence and seeking to apply in the IT industry.<br>⚡ I am personable, I do have a lot of energy and excellent communication abilities.<br>
 
 
 ## 🌐 Socials:
